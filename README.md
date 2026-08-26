@@ -11,7 +11,7 @@
 
 # Hi there, I'm Dinesh D 👋
 
-**`Cybersecurity Graduate | SOC Analyst Trainee | IT Infrastructure Enthusiast`**
+**`Cybersecurity Graduate | IT Hardware and Network Trainee | IT Infrastructure and SOC Analysis Enthusiast`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh0411devendran)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsd411@gmail.com)

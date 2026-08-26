@@ -94,17 +94,6 @@ I'm a **Cybersecurity graduate** passionate about building secure, resilient IT 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh0411&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh0411&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 - 🔭 Deepening expertise in **SOC operations** and threat detection workflows

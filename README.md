@@ -96,10 +96,10 @@ I'm a **Cybersecurity graduate** passionate about building secure, resilient IT 
 
 ## 🎯 Currently Working On
 
-- 🔭 Deepening expertise in **SOC operations** and threat detection workflows
-- 🌱 Exploring **SIEM rule writing** and log analysis with Splunk
-- 🤝 Open to collaborating on **cybersecurity labs**, CTFs, and IT automation projects
-- 💬 Ask me about **Windows Server, Cisco networking, Active Directory, or IT support**
+- 🌐 Strengthening skills in **Cisco routing & switching** — VLANs, Inter-VLAN routing, STP, OSPF/RIP
+- 🔥 Deploying and configuring firewalls & UTM (**FortiGate, Endian**) with ACLs and NAT
+- 🖧 Building enterprise network labs — structured cabling, AD/DNS, Windows Server 2019
+- 🤝 Open to collaborating on networking and infrastructure projects
 
 ---
 

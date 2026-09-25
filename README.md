@@ -1,11 +1,11 @@
-                                        ```
+```
                                         ██████╗ ██╗███╗   ██╗███████╗███████╗██╗  ██╗    ██████╗
                                         ██╔══██╗██║████╗  ██║██╔════╝██╔════╝██║  ██║    ██╔══██╗
                                         ██║  ██║██║██╔██╗ ██║█████╗  ███████╗███████║    ██║  ██║
                                         ██║  ██║██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║    ██║  ██║
                                         ██████╔╝██║██║ ╚████║███████╗███████║██║  ██║    ██████╔╝
                                         ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═════╝
-                                         ```
+```
 
 # Hi there, I'm Dinesh D 👋
 
@@ -18,11 +18,11 @@
 ## 🛡️ About Me
 
 ```
-name: Dinesh D
-education: B.E. Cyber Security — Muthayammal Engineering College (2025)
-location: Tiruchirappalli, Tamil Nadu, India
-currently_training_at: Vatanix Technologies Pvt. Ltd.
-seeking: SOC Analyst (L1) · IT Support (L1/L2) · Network Support · IT Infrastructure
+Name: Dinesh D
+Education: B.E. Cyber Security — Muthayammal Engineering College (2025)
+Location: Tiruchirappalli, Tamil Nadu, India
+Currently_training_at: Vatanix Technologies Pvt. Ltd.
+Seeking: SOC Analyst (L1) · IT Support (L1/L2) · Network Support · IT Infrastructure
 ```
 
 I'm a **Cybersecurity graduate** passionate about building secure, resilient IT environments. My hands-on journey spans SIEM monitoring, enterprise network simulation, Windows Server administration, and hardware diagnostics. I love the intersection of security and infrastructure — understanding how systems work is the first step to protecting them.
@@ -57,13 +57,11 @@ I'm a **Cybersecurity graduate** passionate about building secure, resilient IT 
 
 - Configured **Windows Server 2019** — Active Directory, DNS, DHCP, Group Policy & domain joining
 - Built and troubleshot **custom desktop PCs**: CPU installation, RAID, BIOS/UEFI, hardware diagnostics
-- Set up **dual-boot environments** (Windows + Garuda Linux) and worked with Oracle VM VirtualBox
 - Deployed and managed a **VMware ESXi virtualization environment** to host lab VMs and test server workloads
 - Configured a **FortiGate 40F** firewall for hairpin (NAT loopback) access to internally hosted services
 - Set up **certificate-based EAP-TLS wireless authentication** with Cisco ISE and Meraki access points
 - Configured **VLAN segmentation** on Meraki MS130 access switches
 - Practiced IT service management using **osTicket** and ITIL framework concepts
-- Assisted with day-to-day IT infrastructure support: system imaging, driver/firmware updates, and hardware fault diagnosis for end-user machines
 
 ### 🏢 IZEON Innovative Pvt. Ltd. — *Networking & Cyber Security Trainee*
 
@@ -91,7 +89,7 @@ I'm a **Cybersecurity graduate** passionate about building secure, resilient IT 
 | [Cisco ISE TACACS+ Device Admin Lab](https://github.com/Dineshd411/Cisco-ISE-TACACS-Device-Admin-Lab) | Centralized AAA for network device administration |
 | [Cisco Meraki MS130 VLAN Lab](https://github.com/Dineshd411/Cisco-Meraki-MS130-VLAN-Lab) | VLAN segmentation on Meraki MS130 access switches |
 | [FortiGate Hairpin NAT Lab](https://github.com/Dineshd411/FortiGate-Hairpin-NAT-Lab) | Hairpin (NAT loopback) configuration on FortiGate |
-| [Network Project](https://github.com/Dineshd411/network-Project) | <!-- add a one-line summary --> |
+| [Network Project](https://github.com/Dineshd411/network-Project) | Configuration the vlan DHCP in the cisco Packet tracer using the college infrastructure diagram |
 | [Cisco 3850 Stack: EtherChannel + SPAN](https://github.com/Dineshd411/Cisco-3850-Stack-EtherChannel-SPAN) | Switch stacking, link aggregation, and traffic mirroring |
 | [FortiGate Redundant Firewall Lab](https://github.com/Dineshd411/FortiGate-Redundant-Firewall-Lab) | High-availability FortiGate pair with failover |
 | [Endian Firewall Security Policy Lab](https://github.com/Dineshd411/Endian-Firewall-Security-Policy-Lab) | Zone-based firewall policy on Endian UTM |
